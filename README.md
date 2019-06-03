@@ -30,10 +30,15 @@ Petrolina, Recife, João Pessoa, São Paulo (Capital), São Paulo (Interior)
 
 ## Por exemplo:
 ### Caso for Pernambuco + Recife deverá mostrar os seguintes dados na tela:
+
 Empresa X - Unidade Recife
+
 Endereço: Av. X - 123456
+
 Responsável: João da Silva
+
 Telefone: 0000-0000
+
 Botão de "Saiba mais".
 
 ## Stylesheet
